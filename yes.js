@@ -41,7 +41,7 @@ const febHolidays = [
     "Thanks to God for helping us,ki hum logo ko milaya🙏",
     "You're the love of my life,",
     "I Love You So much❤️"
-    "will you marry me❤️"
+    
   ];
   const ulEl = document.querySelector("ul");
   const d = new Date();
